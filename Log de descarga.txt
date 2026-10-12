@@ -1,0 +1,513 @@
+SSL certificate verification is disabled for HCDN requests.
+
+Conectado: https://www.hcdn.gob.ar/secparl/dtaqui/diario-de-sesiones.html
+
+--- PERIODO 124 ---
+Reuniones detectadas: 58
+Reunion 1 (08/03/2006): FOUND
+Reunion 2 (15/03/2006): FOUND
+Reunion 3 (22/03/2006): FOUND
+Reunion 4 (22/03/2006): FOUND
+Reunion 5 (29/03/2006): FOUND
+Reunion 6 (04/04/2006): FOUND
+Reunion 7 (05/04/2006): FOUND
+Reunion 8 (19/04/2006): FOUND
+Reunion 9 (03/05/2006): FOUND
+Reunion 10 (10/05/2006): FOUND
+Reunion 11 (10/05/2006): FOUND
+Reunion 12 (17/05/2006): FOUND
+Reunion 13 (23/05/2006): FOUND
+Reunion 14 (23/05/2006): FOUND
+Reunion 15 (31/05/2006): FOUND
+Reunion 16 (07/06/2006): FOUND
+Reunion 17 (07/06/2006): FOUND
+Reunion 18 (14/06/2006): FOUND
+Reunion 19 (21/06/2006): FOUND
+Reunion 20 (28/06/2006): FOUND
+Reunion 21 (05/07/2006): FOUND
+Reunion 22 (19/07/2006): FOUND
+Reunion 23 (20/07/2006): FOUND
+Reunion 24 (02/08/2006): FOUND
+Reunion 25 (09/08/2006): FOUND
+Reunion 26 (16/08/2006): FOUND
+Reunion 27 (30/08/2006): FOUND
+Reunion 28 (30/08/2006): FOUND
+Reunion 29 (06/09/2006): FOUND
+Reunion 30 (13/09/2006): FOUND
+Reunion 31 (27/09/2006): FOUND
+Reunion 32 (27/09/2006): FOUND
+Reunion 33 (04/10/2006): FOUND
+Reunion 34 (11/10/2006): FOUND
+Reunion 35 (25/10/2006): FOUND
+Reunion 36 (01/11/2006): FOUND
+Reunion 37 (01/11/2006): FOUND
+Reunion 38 (08/11/2006): FOUND
+Reunion 39 (08/11/2006): FOUND
+Reunion 40 (15/11/2006): FOUND
+Reunion 41 (15/11/2006): FOUND
+Reunion 42 (22/11/2006): FOUND
+Reunion 43 (22/11/2006): FOUND
+Reunion 44 (23/11/2006): FOUND
+Reunion 45 (29/11/2006): FOUND
+Reunion 46 (29/11/2006): FOUND
+Reunion 47 (06/12/2006): FOUND
+Reunion 48 (06/12/2006): FOUND
+Reunion 49 (06/12/2006): FOUND
+Reunion 50 (13/12/2006): FOUND
+Reunion 51 (13/12/2006): FOUND
+Reunion 52 (13/12/2006): FOUND
+Reunion 53 (14/12/2006): FOUND
+Reunion 54 (14/12/2006): FOUND
+Reunion 55 (14/12/2006): FOUND
+Reunion 56 (20/12/2006): FOUND
+Reunion 57 (13/02/2007): FOUND
+Reunion 58 (27/02/2007): FOUND
+diario_200603081.pdf: downloaded
+diario_200603152.pdf: downloaded
+diario_200603223.pdf: downloaded
+diario_200603224.pdf: downloaded
+diario_200603295.pdf: downloaded
+diario_200604046.pdf: downloaded
+diario_200604057.pdf: downloaded
+diario_200604198.pdf: downloaded
+diario_200605039.pdf: downloaded
+diario_2006051010.pdf: downloaded
+diario_2006051011.pdf: downloaded
+diario_2006051712.pdf: downloaded
+diario_2006052313.pdf: downloaded
+diario_2006052314.pdf: downloaded
+diario_2006053115.pdf: downloaded
+diario_2006060716.pdf: downloaded
+diario_2006060717.pdf: downloaded
+diario_2006061418.pdf: downloaded
+diario_2006062119.pdf: downloaded
+diario_2006062820.pdf: downloaded
+diario_2006070521.pdf: downloaded
+diario_2006071922.pdf: downloaded
+diario_2006072023.pdf: downloaded
+diario_2006080224.pdf: downloaded
+diario_2006080925.pdf: downloaded
+diario_2006081626.pdf: downloaded
+diario_2006083027.pdf: downloaded
+diario_2006083028.pdf: downloaded
+diario_2006090629.pdf: downloaded
+diario_2006091330.pdf: downloaded
+diario_2006092731.pdf: downloaded
+diario_2006092732.pdf: downloaded
+diario_2006100433.pdf: downloaded
+diario_2006101134.pdf: downloaded
+diario_2006102535.pdf: downloaded
+diario_2006110136.pdf: downloaded
+diario_2006110137.pdf: downloaded
+diario_2006110838.pdf: downloaded
+diario_2006110839.pdf: downloaded
+diario_2006111540.pdf: downloaded
+diario_2006111541.pdf: downloaded
+diario_2006112242.pdf: downloaded
+diario_2006112243.pdf: downloaded
+diario_2006112344.pdf: downloaded
+diario_2006112945.pdf: downloaded
+diario_2006112946.pdf: downloaded
+diario_2006120647.pdf: downloaded
+diario_2006120648.pdf: downloaded
+diario_2006120649.pdf: downloaded
+diario_2006121350.pdf: downloaded
+diario_2006121351.pdf: downloaded
+diario_2006121352.pdf: downloaded
+diario_2006121453.pdf: downloaded
+diario_2006121454.pdf: downloaded
+diario_2006121455.pdf: downloaded
+diario_2006122056.pdf: downloaded
+diario_2007021357.pdf: downloaded
+diario_2007022758.pdf: downloaded
+
+--- PERIODO 125 ---
+Reuniones detectadas: 35
+Reunion 1 (14/03/2007): FOUND
+Reunion 2 (21/03/2007): FOUND
+Reunion 3 (28/03/2007): FOUND
+Reunion 4 (28/03/2007): FOUND
+Reunion 5 (28/03/2007): FOUND
+Reunion 6 (11/04/2007): FOUND
+Reunion 7 (25/04/2007): FOUND
+Reunion 8 (25/04/2007): FOUND
+Reunion 9 (09/05/2007): FOUND
+Reunion 10 (22/05/2007): FOUND
+Reunion 11 (23/05/2007): FOUND
+Reunion 12 (06/06/2007): FOUND
+Reunion 13 (13/06/2007): FOUND
+Reunion 14 (27/06/2007): FOUND
+Reunion 15 (11/07/2007):     intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+not found
+Reunion 16 (18/07/2007): FOUND
+Reunion 17 (01/08/2007): FOUND
+Reunion 18 (08/08/2007): FOUND
+Reunion 19 (15/08/2007): FOUND
+Reunion 20 (15/08/2007): FOUND
+Reunion 21 (05/09/2007): FOUND
+Reunion 22 (07/11/2007): FOUND
+Reunion 23 (14/11/2007): FOUND
+Reunion 24 (14/11/2007): FOUND
+Reunion 25 (21/11/2007): FOUND
+Reunion 26 (21/11/2007): FOUND
+Reunion 27 (22/11/2007): FOUND
+Reunion 28 (28/11/2007): FOUND
+Reunion 29 (28/11/2007): FOUND
+Reunion 30 (29/11/2007): FOUND
+Reunion 31 (04/12/2007): FOUND
+Reunion 32 (05/12/2007): FOUND
+Reunion 33 (19/12/2007): FOUND
+Reunion 34 (26/12/2007): FOUND
+Reunion 35 (28/02/2008): FOUND
+diario_200703141.pdf: downloaded
+diario_200703212.pdf: downloaded
+diario_200703283.pdf: downloaded
+diario_200703284.pdf: downloaded
+diario_200703285.pdf: downloaded
+diario_200704116.pdf: downloaded
+diario_200704257.pdf: downloaded
+diario_200704258.pdf: downloaded
+diario_200705099.pdf: downloaded
+diario_2007052210.pdf: downloaded
+diario_2007052311.pdf: downloaded
+diario_2007060612.pdf: downloaded
+diario_2007061313.pdf: downloaded
+diario_2007062714.pdf: downloaded
+diario_2007071816.pdf: downloaded
+diario_2007080117.pdf: downloaded
+diario_2007080818.pdf: downloaded
+diario_2007081519.pdf: downloaded
+diario_2007081520.pdf: downloaded
+diario_2007090521.pdf: downloaded
+diario_2007110722.pdf: downloaded
+diario_2007111423.pdf: downloaded
+diario_2007111424.pdf: downloaded
+diario_2007112125.pdf: downloaded
+diario_2007112126.pdf: downloaded
+diario_2007112227.pdf: downloaded
+diario_2007112828.pdf: downloaded
+diario_2007112829.pdf: downloaded
+diario_2007112930.pdf: downloaded
+diario_2007120431.pdf: downloaded
+diario_2007120532.pdf: downloaded
+diario_2007121933.pdf: downloaded
+diario_2007122634.pdf: downloaded
+diario_2008022835.pdf: downloaded
+
+--- PERIODO 126 ---
+Reuniones detectadas: 41
+Reunion 1 (12/03/2008): FOUND
+Reunion 2 (25/03/2008): FOUND
+Reunion 3 (26/03/2008): FOUND
+Reunion 4 (09/04/2008): FOUND
+Reunion 5 (09/04/2008): FOUND
+Reunion 6 (23/04/2008): FOUND
+Reunion 7 (07/05/2008): FOUND
+Reunion 8 (07/05/2008): FOUND
+Reunion 9 (20/05/2008): FOUND
+Reunion 10 (21/05/2008): FOUND
+Reunion 11 (28/05/2008): FOUND
+Reunion 12 (03/06/2008): FOUND
+Reunion 13 (04/06/2008): FOUND
+Reunion 14 (10/06/2008): FOUND
+Reunion 15 (11/06/2008): FOUND
+Reunion 16 (17/06/2008): FOUND
+Reunion 17 (04/07/2008): FOUND
+Reunion 18 (20/08/2008): FOUND
+Reunion 19 (21/08/2008): FOUND
+Reunion 20 (27/08/2008): FOUND
+Reunion 21 (03/09/2008): FOUND
+Reunion 22 (23/09/2008): FOUND
+Reunion 23 (01/10/2008): FOUND
+Reunion 24 (01/10/2008): FOUND
+Reunion 25 (14/10/2008): FOUND
+Reunion 26 (15/10/2008): FOUND
+Reunion 27 (30/10/2008): FOUND
+Reunion 28 (06/11/2008): FOUND
+Reunion 29 (11/11/2008): FOUND
+Reunion 30 (20/11/2008): FOUND
+Reunion 31 (26/11/2008): FOUND
+Reunion 32 (27/11/2008): FOUND
+Reunion 33 (03/12/2008): FOUND
+Reunion 34 (03/12/2008): FOUND
+Reunion 35 (03/12/2008): FOUND
+Reunion 36 (10/12/2008): FOUND
+Reunion 37 (10/12/2008): FOUND
+Reunion 38 (17/12/2008): FOUND
+Reunion 39 (17/12/2008): FOUND
+Reunion 40 (18/12/2008): FOUND
+Reunion 41 (18/12/2008): FOUND
+diario_200803121.pdf: downloaded
+diario_200803252.pdf: downloaded
+diario_200803263.pdf: downloaded
+diario_200804094.pdf: downloaded
+diario_200804095.pdf: downloaded
+diario_200804236.pdf: downloaded
+diario_200805077.pdf: downloaded
+diario_200805078.pdf: downloaded
+diario_200805209.pdf: downloaded
+diario_2008052110.pdf: downloaded
+diario_2008052811.pdf: downloaded
+diario_2008060312.pdf: downloaded
+diario_2008060413.pdf: downloaded
+diario_2008061014.pdf: downloaded
+diario_2008061115.pdf: downloaded
+diario_2008061716.pdf: downloaded
+diario_2008070417.pdf: downloaded
+diario_2008082018.pdf: downloaded
+diario_2008082119.pdf: downloaded
+diario_2008082720.pdf: downloaded
+diario_2008090321.pdf: downloaded
+diario_2008092322.pdf: downloaded
+diario_2008100123.pdf: downloaded
+diario_2008100124.pdf: downloaded
+diario_2008101425.pdf: downloaded
+diario_2008101526.pdf: downloaded
+diario_2008103027.pdf: downloaded
+diario_2008110628.pdf: downloaded
+diario_2008111129.pdf: downloaded
+diario_2008112030.pdf: downloaded
+diario_2008112631.pdf: downloaded
+diario_2008112732.pdf: downloaded
+diario_2008120333.pdf: downloaded
+diario_2008120334.pdf: downloaded
+diario_2008120335.pdf: downloaded
+diario_2008121036.pdf: downloaded
+diario_2008121037.pdf: downloaded
+diario_2008121738.pdf: downloaded
+diario_2008121739.pdf: downloaded
+diario_2008121840.pdf: downloaded
+diario_2008121841.pdf: downloaded
+
+--- PERIODO 127 ---
+Reuniones detectadas: 20
+Reunion 1 (11/03/2009): FOUND
+Reunion 2 (17/03/2009): FOUND
+Reunion 3 (18/03/2009): FOUND
+Reunion 4 (19/03/2009): FOUND
+Reunion 5 (15/04/2009): FOUND
+Reunion 6 (20/05/2009): FOUND
+Reunion 7 (05/08/2009): FOUND
+Reunion 8 (12/08/2009): FOUND
+Reunion 9 (27/08/2009): FOUND
+Reunion 10 (16/09/2009): FOUND
+Reunion 11 (07/10/2009): FOUND
+Reunion 12 (14/10/2009): FOUND
+Reunion 13 (22/10/2009): FOUND
+Reunion 14 (28/10/2009): FOUND
+Reunion 15 (04/11/2009): FOUND
+Reunion 16 (11/11/2009): FOUND
+Reunion 17 (11/11/2009): FOUND
+Reunion 18 (18/11/2009): FOUND
+Reunion 19 (25/11/2009): FOUND
+Reunion 20 (03/12/2009): FOUND
+diario_200903111.pdf: downloaded
+diario_200903172.pdf: downloaded
+diario_200903183.pdf: downloaded
+diario_200903194.pdf: downloaded
+diario_200904155.pdf: downloaded
+diario_200905206.pdf: downloaded
+diario_200908057.pdf: downloaded
+diario_200908128.pdf: downloaded
+diario_200908279.pdf: downloaded
+diario_2009091610.pdf: downloaded
+diario_2009100711.pdf: downloaded
+diario_2009101412.pdf: downloaded
+diario_2009102213.pdf: downloaded
+diario_2009102814.pdf: downloaded
+diario_2009110415.pdf: downloaded
+diario_2009111116.pdf: downloaded
+diario_2009111117.pdf: downloaded
+diario_2009111818.pdf: downloaded
+diario_2009112519.pdf: downloaded
+diario_2009120320.pdf: downloaded
+
+--- PERIODO 128 ---
+Reuniones detectadas: 29
+Reunion 1 (10/03/2010): FOUND
+Reunion 2 (17/03/2010): FOUND
+Reunion 3 (07/04/2010): FOUND
+Reunion 4 (13/04/2010): FOUND
+Reunion 5 (21/04/2010): FOUND
+Reunion 6 (28/04/2010): FOUND
+Reunion 7 (04/05/2010): FOUND
+Reunion 8 (05/05/2010): FOUND
+Reunion 9 (12/05/2010): FOUND
+Reunion 10 (26/05/2010): FOUND
+Reunion 11 (09/06/2010): FOUND
+Reunion 12 (23/06/2010): FOUND
+Reunion 13 (30/06/2010): FOUND
+Reunion 14 (14/07/2010): FOUND
+Reunion 15 (04/08/2010): FOUND
+Reunion 16 (11/08/2010): FOUND
+Reunion 17 (18/08/2010): FOUND
+Reunion 18 (25/08/2010): FOUND
+Reunion 19 (01/09/2010): FOUND
+Reunion 20 (08/09/2010): FOUND
+Reunion 21 (15/09/2010): FOUND
+Reunion 22 (29/09/2010): FOUND
+Reunion 23 (12/10/2010): FOUND
+Reunion 24 (13/10/2010): FOUND
+Reunion 25 (03/11/2010): FOUND
+Reunion 26 (10/11/2010): FOUND
+Reunion 27 (17/11/2010): FOUND
+Reunion 28 (24/11/2010): FOUND
+Reunion 29 (01/12/2010): FOUND
+diario_201003101.pdf: downloaded
+diario_201003172.pdf: downloaded
+diario_201004073.pdf: downloaded
+diario_201004134.pdf: downloaded
+diario_201004215.pdf: downloaded
+diario_201004286.pdf: downloaded
+diario_201005047.pdf: downloaded
+diario_201005058.pdf: downloaded
+diario_201005129.pdf: downloaded
+diario_2010052610.pdf: downloaded
+diario_2010060911.pdf: downloaded
+diario_2010062312.pdf: downloaded
+diario_2010063013.pdf: downloaded
+diario_2010071414.pdf: downloaded
+diario_2010080415.pdf: downloaded
+diario_2010081116.pdf: downloaded
+diario_2010081817.pdf: downloaded
+diario_2010082518.pdf: downloaded
+diario_2010090119.pdf: downloaded
+diario_2010090820.pdf: downloaded
+diario_2010091521.pdf: downloaded
+diario_2010092922.pdf: downloaded
+diario_2010101223.pdf: downloaded
+diario_2010101324.pdf: downloaded
+diario_2010110325.pdf: downloaded
+diario_2010111026.pdf: downloaded
+diario_2010111727.pdf: downloaded
+diario_2010112428.pdf: downloaded
+diario_2010120129.pdf: downloaded
+
+--- PERIODO 129 ---
+Reuniones detectadas: 13
+Reunion 1 (16/03/2011): FOUND
+Reunion 2 (30/03/2011): FOUND
+Reunion 3 (13/04/2011): FOUND
+Reunion 4 (04/05/2011): FOUND
+Reunion 5 (04/05/2011): FOUND
+Reunion 6 (01/06/2011): FOUND
+Reunion 7 (03/08/2011): FOUND
+Reunion 8 (07/09/2011): FOUND
+Reunion 9 (05/10/2011): FOUND
+Reunion 10 (30/11/2011): FOUND
+Reunion 11 (06/12/2011): FOUND
+Reunion 12 (14/12/2011): FOUND
+Reunion 13 (15/12/2011): FOUND
+diario_201103161.pdf: downloaded
+diario_201103302.pdf: downloaded
+diario_201104133.pdf: downloaded
+diario_201105044.pdf: downloaded
+diario_201105045.pdf: downloaded
+diario_201106016.pdf: downloaded
+diario_201108037.pdf: downloaded
+diario_201109078.pdf: downloaded
+diario_201110059.pdf: downloaded
+diario_2011113010.pdf: downloaded
+diario_2011120611.pdf: downloaded
+diario_2011121412.pdf: downloaded
+diario_2011121513.pdf: downloaded
+
+--- PERIODO 130 ---
+Reuniones detectadas: 24
+Reunion 1 (14/03/2012): FOUND
+Reunion 2 (21/03/2012): FOUND
+Reunion 3 (24/03/2012): FOUND
+Reunion 4 (28/03/2012): FOUND
+Reunion 5 (18/04/2012): FOUND
+Reunion 6 (02/05/2012): FOUND
+Reunion 7 (03/05/2012): FOUND
+Reunion 8 (23/05/2012): FOUND
+Reunion 9 (25/06/2012): FOUND
+Reunion 10 (27/06/2012): FOUND
+Reunion 11 (27/06/2012): FOUND
+Reunion 12 (04/07/2012): FOUND
+Reunion 13 (04/07/2012): FOUND
+Reunion 14 (08/08/2012):     intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+intento 1/3: HTTP Error 404: Not Found
+intento 2/3: HTTP Error 404: Not Found
+intento 3/3: HTTP Error 404: Not Found
+not found
+Reunion 15 (22/08/2012): FOUND
+Reunion 16 (10/10/2012): FOUND
+Reunion 17 (24/10/2012): FOUND
+Reunion 18 (31/10/2012): FOUND
+Reunion 19 (14/11/2012): FOUND
+Reunion 20 (21/11/2012): FOUND
+Reunion 21 (28/11/2012): FOUND
+Reunion 22 (05/12/2012): FOUND
+Reunion 23 (19/12/2012): FOUND
+Reunion 24 (27/02/2013): FOUND
+diario_201203141.pdf: downloaded
+diario_201203212.pdf: downloaded
+diario_201203243.pdf: downloaded
+diario_201203284.pdf: downloaded
+diario_201204185.pdf: downloaded
+diario_201205026.pdf: downloaded
+diario_201205037.pdf: downloaded
+diario_201205238.pdf: downloaded
+diario_201206259.pdf: downloaded
+diario_2012062710.pdf: downloaded
+diario_2012062711.pdf: downloaded
+diario_2012070412.pdf: downloaded
+diario_2012070413.pdf: downloaded
+diario_2012082215.pdf: downloaded
+diario_2012101016.pdf: downloaded
+diario_2012102417.pdf: downloaded
+diario_2012103118.pdf: downloaded
+diario_2012111419.pdf: downloaded
+diario_2012112120.pdf: downloaded
+diario_2012112821.pdf: downloaded
