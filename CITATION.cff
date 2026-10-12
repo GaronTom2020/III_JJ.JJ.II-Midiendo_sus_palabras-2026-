@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si usás este software o estos datos, citalos con la referencia de abajo."
+title: "Midiendo sus palabras: Evolución del lenguaje en el Congreso argentino"
+abstract: >-
+  Código y documentación para convertir los Diarios de Sesiones de la Honorable
+  Cámara de Diputados de la Nación Argentina (2006–2025) en una tabla de
+  intervenciones y medir en cada una legibilidad, diversidad léxica,
+  homogeneidad léxica y extensión, con asignación de bloque por fecha.
+authors:
+  - family-names: Garona
+    given-names: Tomás
+version: 1.0.0
+date-released: 2026-10-12
+license: MIT
+repository-code: "https://github.com/USUARIO/Midiendo_sus_palabras-Congreso-argentino"
+doi: 10.5281/zenodo.XXXXXXX
+keywords:
+  - Cámara de Diputados
+  - Argentina
+  - discurso parlamentario
+  - análisis de texto
+  - legibilidad
+  - diversidad léxica
